@@ -13,4 +13,4 @@ const positiveNumbersSum = (arr) => {
     return sum;
 }
 
-console.log(positiveNumbersSum([2, -5, 10, -3, 7]));
+console.log(positiveNumbersSum([2, -5, 10, -3, 7])); // 19
